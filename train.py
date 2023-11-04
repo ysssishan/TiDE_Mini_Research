@@ -14,7 +14,6 @@
 # limitations under the License.
 
 """Main training code."""
-""""Julia trial"""
 
 import json
 import os
